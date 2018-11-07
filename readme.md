@@ -1,7 +1,7 @@
 # Animated Menu Icon
 This is an animated menu using [Segment](https://github.com/lmgonzalves/segment) and [DrawSVGPlugin](http://greensock.com/drawSVG)
 
-## [DEMO](https://hantumobil.github.io/playground/animate-svg-menu)
+## [DEMO](https://w-digital.co/animated-menu-icon/)
 ![image](/img/animate-menu-icon-ss.png)
 
 
